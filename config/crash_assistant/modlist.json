@@ -2586,13 +2586,13 @@
     "curseForgeHash": 1811166438,
     "modrinthHash": "e17417eee213aac8291ff8bad1c6a5f710636b72"
   },
-  "occultism-1.21.1-neoforge-1.207.2.jar": {
-    "jarName": "occultism-1.21.1-neoforge-1.207.2.jar",
+  "occultism-1.21.1-neoforge-1.208.0.jar": {
+    "jarName": "occultism-1.21.1-neoforge-1.208.0.jar",
     "modId": "occultism",
     "name": "Occultism",
-    "version": "1.207.2",
-    "curseForgeHash": 1281900973,
-    "modrinthHash": "960b3e157ac2ce982243f64a97ec33b71a3c5f49"
+    "version": "1.208.0",
+    "curseForgeHash": 1593549282,
+    "modrinthHash": "444af7dd5524a3bfa34752284c5a79ae402570ab"
   },
   "occultism_kubejs-1.21.1-neoforge-1.11.0.jar": {
     "jarName": "occultism_kubejs-1.21.1-neoforge-1.11.0.jar",
@@ -2986,13 +2986,13 @@
     "curseForgeHash": 2517056017,
     "modrinthHash": "064c2da020731fadd07e095707320431df12288d"
   },
-  "relics-1.21.1-0.11.13.jar": {
-    "jarName": "relics-1.21.1-0.11.13.jar",
+  "relics-1.21.1-0.11.14.jar": {
+    "jarName": "relics-1.21.1-0.11.14.jar",
     "modId": "relics",
     "name": "Relics",
-    "version": "0.11.13",
-    "curseForgeHash": 3297953797,
-    "modrinthHash": "e0321e8575ccc9d1282d8ae28596392c19147888"
+    "version": "0.11.14",
+    "curseForgeHash": 3021122785,
+    "modrinthHash": "7d4c14db31ecba9029cb0e016989b84c1212acf3"
   },
   "reliquary-1.21.1-2.0.66.1363.jar": {
     "jarName": "reliquary-1.21.1-2.0.66.1363.jar",
@@ -3247,13 +3247,13 @@
     "curseForgeHash": 2555194351,
     "modrinthHash": "51851c61e8be5b799b5ad8aa109b3416509605b7"
   },
-  "sophisticatedcore-1.21.1-1.4.19.1639.jar": {
-    "jarName": "sophisticatedcore-1.21.1-1.4.19.1639.jar",
+  "sophisticatedcore-1.21.1-1.4.20.1646.jar": {
+    "jarName": "sophisticatedcore-1.21.1-1.4.20.1646.jar",
     "modId": "sophisticatedcore",
     "name": "Sophisticated Core",
-    "version": "1.4.19",
-    "curseForgeHash": 1549479421,
-    "modrinthHash": "95f9e55daf53ea3e669b08aace54d8d52cc8da59"
+    "version": "1.4.20",
+    "curseForgeHash": 3583411101,
+    "modrinthHash": "eddc7862ce5f39a55425e96fd0dd00c27796195d"
   },
   "sophisticatedstorage-1.21.1-1.5.35.1599.jar": {
     "jarName": "sophisticatedstorage-1.21.1-1.5.35.1599.jar",
@@ -3591,13 +3591,13 @@
     "curseForgeHash": 3535573799,
     "modrinthHash": "757d8dd20bf22c7157e275c2a7643cde76984e4d"
   },
-  "utilitarian-1.21.1-0.18.2.jar": {
-    "jarName": "utilitarian-1.21.1-0.18.2.jar",
+  "utilitarian-1.21.1-0.19.0.jar": {
+    "jarName": "utilitarian-1.21.1-0.19.0.jar",
     "modId": "utilitarian",
     "name": "Utilitarian",
-    "version": "1.21.1-0.18.2",
-    "curseForgeHash": 410084681,
-    "modrinthHash": "2971724a557a3a10fefd1649809b0c5d678a5f61"
+    "version": "1.21.1-0.19.0",
+    "curseForgeHash": 3741021762,
+    "modrinthHash": "184ee8b6efc3c64fe60ee2b09b1b6cb53aa13444"
   },
   "utilityvest-1.2.6.jar": {
     "jarName": "utilityvest-1.2.6.jar",
